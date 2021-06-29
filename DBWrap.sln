@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBWrap", "DBWrap\DBWrap.csproj", "{903A92B0-CD1F-4A40-B468-0373529179A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{903A92B0-CD1F-4A40-B468-0373529179A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{903A92B0-CD1F-4A40-B468-0373529179A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{903A92B0-CD1F-4A40-B468-0373529179A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{903A92B0-CD1F-4A40-B468-0373529179A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6512D309-C4F1-41B5-91EF-979C193E2ED9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6512D309-C4F1-41B5-91EF-979C193E2ED9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6512D309-C4F1-41B5-91EF-979C193E2ED9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6512D309-C4F1-41B5-91EF-979C193E2ED9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

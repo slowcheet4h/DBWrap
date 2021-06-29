@@ -1,7 +1,7 @@
+using System;
+
 namespace DBWrap
 {
-    public class primarykey
-    {
-        
-    }
+    public class PK : Attribute
+    { }
 }
